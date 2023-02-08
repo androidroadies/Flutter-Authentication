@@ -1,6 +1,6 @@
 # This is a generated file; do not edit or check into version control.
-flutter_plugin_android_lifecycle=/Users/apple/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.7/
-local_auth=/Users/apple/.pub-cache/hosted/pub.dev/local_auth-2.1.3/
-local_auth_android=/Users/apple/.pub-cache/hosted/pub.dev/local_auth_android-1.0.18/
-local_auth_ios=/Users/apple/.pub-cache/hosted/pub.dev/local_auth_ios-1.0.12/
-local_auth_windows=/Users/apple/.pub-cache/hosted/pub.dev/local_auth_windows-1.0.5/
+flutter_plugin_android_lifecycle=/Users/skywave-mac/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+local_auth=/Users/skywave-mac/.pub-cache/hosted/pub.dartlang.org/local_auth-2.1.3/
+local_auth_android=/Users/skywave-mac/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.18/
+local_auth_ios=/Users/skywave-mac/.pub-cache/hosted/pub.dartlang.org/local_auth_ios-1.0.12/
+local_auth_windows=/Users/skywave-mac/.pub-cache/hosted/pub.dartlang.org/local_auth_windows-1.0.5/

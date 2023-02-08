@@ -12,8 +12,8 @@ class FingerprintAuth extends StatefulWidget {
 class _FingerprintAuthState extends State<FingerprintAuth> {
   final auth = LocalAuthentication();
   String authorized = "Not authorized";
-  bool _canCheckBiometric = false;
-  late List<BiometricType> _availableBiometric;
+  // bool _canCheckBiometric = false;
+  // late List<BiometricType> _availableBiometric;
 
   Future<void> _authenticate() async {
     bool authenticated = false;
@@ -49,7 +49,7 @@ class _FingerprintAuthState extends State<FingerprintAuth> {
     if (!mounted) return;
 
     setState(() {
-      _canCheckBiometric = canCheckBiometric;
+      // _canCheckBiometric = canCheckBiometric;
     });
   }
 
@@ -65,7 +65,7 @@ class _FingerprintAuthState extends State<FingerprintAuth> {
     print("availableBiometric==>>>$availableBiometric");
 
     setState(() {
-      _availableBiometric = availableBiometric;
+      // _availableBiometric = availableBiometric;
     });
   }
 

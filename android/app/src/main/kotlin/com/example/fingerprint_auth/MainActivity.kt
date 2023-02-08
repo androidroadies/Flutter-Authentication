@@ -5,7 +5,7 @@ import io.flutter.embedding.engine.FlutterEngine
 import io.flutter.plugins.GeneratedPluginRegistrant
 
 class MainActivity: FlutterFragmentActivity() {
-    override fun configureFlutterEngine(flutterEngine: FlutterEngine) {
-        GeneratedPluginRegistrant.registerWith(flutterEngine)
-    }
+//    override fun configureFlutterEngine(flutterEngine: FlutterEngine) {
+//        GeneratedPluginRegistrant.registerWith(flutterEngine)
+//    }
 }
